@@ -22,7 +22,7 @@ You can easily integrate PayBitoSDK into your project via Swift Package Manager:
 2. Go to **File > Add Package Dependencies...**
 3. Paste the following repository URL into the search bar:
    ```text
-   https://github.com/hashcashconsultant/payment-payments-ios-sdk.git
+   https://github.com/hashcashconsultant/PaybitoSDK.git
    ```
 4. Set the Dependency Rule (e.g., to "Up to Next Major Version" for version `1.0.0`) and click **Add Package**.
 
